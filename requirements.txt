@@ -2,4 +2,7 @@ pandas
 wordcloud
 matplotlib
 nltk
+langdetect
+langcodes
+language_data
 seaborn
