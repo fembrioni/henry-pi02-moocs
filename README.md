@@ -56,6 +56,8 @@ Para destacar:
 
 - Objetivo : Valor de la medida para el año anterior incrementado en 15%.
 
+- Nota : Para una mejor visualización en el dashboard, se evita multiplicar por 100.
+
 ## KPI 2 : Precio promedio de cursos
 
 - Medida : Suma del precio de los cursos pagos / Cantidad de cursos pagos.
